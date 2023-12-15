@@ -1,0 +1,47 @@
+{
+  "story": [
+    {
+      "chapter": 1,
+      "title": "Seeds of Passion",
+      "content": [
+        {
+          "speaker": "Narrator",
+          "text": "In the bustling city of Coimbatore, young Amir discovered his love for mobile app development. Despite the challenges and limited resources, he spent countless nights honing his coding skills, fueled by the dream of creating innovative applications."
+        },
+        {
+          "speaker": "Amir",
+          "text": "My family always supported me. Their encouragement meant the world to me."
+        },
+        {
+          "speaker": "Image",
+          "url": "assets/images/amir_coding_image.jpg",
+          "caption": "Amir coding late into the night"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "A Chance Encounter",
+      "content": [
+        {
+          "speaker": "Narrator",
+          "text": "At a local community event, Amir crossed paths with Aisha, a graceful dance professional deeply connected to her Muslim roots."
+        },
+        {
+          "speaker": "Aisha",
+          "text": "Dance is a powerful form of expression. It connects us to our heritage."
+        },
+        {
+          "speaker": "Image",
+          "url": "assets/images/aisha_dance_image.jpg",
+          "caption": "Aisha performing a traditional dance"
+        },
+        {
+          "speaker": "Amir",
+          "text": "I was captivated by the beauty of her art. Little did I know our paths would intertwine in a unique way."
+        }
+      ]
+    }
+  
+  ]
+}
